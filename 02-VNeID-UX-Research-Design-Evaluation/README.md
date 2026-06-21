@@ -44,7 +44,10 @@ Designed and prototyped **6 UX improvements** using Figma and Framer:
 ## Result
 - Test participants: 51 (qualitative) + 61 (quantitative) 
 - Overall SUS Score: **88.25 / 100** — "Excellent" (Bangor scale) 
-- Low-tech-literacy users (SUS improvement): **42.5 → 77.5** 
+- Low-tech-literacy users (SUS improvement): **42.5 → 77.5**## Prototype
+
+## Figma Prototype:
+(https://www.figma.com/design/eeqclhXPoJPQ7FTnpx3LxC/NCKH_VNeID?node-id=0-1&t=0pXQbZ45eTQhCHx0-1)
 
 ## Contact
 linkedin.com/in/thao-nguyen-huong | nguyenhuongthao1304@gmail.com
