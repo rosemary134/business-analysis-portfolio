@@ -47,7 +47,7 @@ Designed and prototyped **6 UX improvements** using Figma and Framer:
 - Low-tech-literacy users (SUS improvement): **42.5 → 77.5**## Prototype
 
 ## Figma Prototype:
-bit.ly/vneid-prototype-figma
+- bit.ly/vneid-prototype-figma
 ## Framer
 - **Offline Mode Prototype:** bit.ly/vneid-prototype-offline-framer
 - **Chatbot Prototype:** bit.ly/vneid-prototype-chatbot-framer
