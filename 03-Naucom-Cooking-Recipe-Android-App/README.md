@@ -6,7 +6,7 @@
 ## Overview
 NauCom is an Android application that helps users discover cooking 
 recipes based on available ingredients, plan meals, and manage their 
-favorite dishes — with full Vietnamese language support via 
+favorite dishes - with full Vietnamese language support via 
 translation integration.
 
 ## My Role - Business Analyst
