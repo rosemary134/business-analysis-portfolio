@@ -22,7 +22,7 @@ translation integration.
 - [Wireframes](./Wireframe.pdf) : UI mockups for core screens 
 - [BPMN](./BPMN.png) : Business process flow diagram 
 
-## Figma Wireframes
+## Figma UI Design
 - bit.ly/naucomapp-figma
 
 ## Features
