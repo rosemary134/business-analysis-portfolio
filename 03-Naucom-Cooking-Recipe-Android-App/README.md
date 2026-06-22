@@ -17,15 +17,14 @@ translation integration.
   third-party API integration
 
 ## Documentation
+- [User Stories](./User-Stories.pdf) : Functional requirements in user story format
+- [Use Case Diagram](./Use-Case-Diagram.pdf) : System interactions between actors and features 
+- [Wireframes](./Wireframe.pdf) : UI mockups for core screens 
+- [BPMN](./BPMN.png) : Business process flow diagram 
 
-| [User Stories](./User-Stories.pdf) | Functional requirements in user story format |
-| [Use Case Diagram](./Use-Case-Diagram.pdf) | System interactions between actors and features |
-| [Wireframes](./Wireframe.pdf) | UI mockups for core screens |
-| [BPMN](./BPMN.png) | Business process flow diagram |
-
-## Figma Prototype
+## Figma Wireframes
 - bit.ly/naucomapp-figma
-- 
+
 ## Features
 - Recipe search via Spoonacular API
 - Meal planning calendar
