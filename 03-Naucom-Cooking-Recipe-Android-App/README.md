@@ -19,12 +19,10 @@ translation integration.
 ## Documentation
 - [User Stories](./User-Stories.pdf) : Functional requirements in user story format
 - [Use Case Diagram](./Use-Case-Diagram/) : System interactions between actors and features 
-- [Wireframes](./Wireframe.pdf) : UI mockups for core screens 
 - [BPMN](./BPMN.png) : Business process flow diagram 
 
 ## Figma UI Design
-- bit.ly/naucomapp-figma
-
+- [UI Design](bit.ly/naucomapp-figma)
 ## Features
 - Recipe search via Spoonacular API
 - Meal planning calendar
