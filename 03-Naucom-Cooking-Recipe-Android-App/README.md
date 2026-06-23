@@ -18,7 +18,7 @@ translation integration.
 
 ## Documentation
 - [User Stories](./User-Stories.pdf) : Functional requirements in user story format
-- [Use Case Diagram](./Use-Case-Diagram.pdf) : System interactions between actors and features 
+- [Use Case Diagram](./Use-Case-Diagram/) : System interactions between actors and features 
 - [Wireframes](./Wireframe.pdf) : UI mockups for core screens 
 - [BPMN](./BPMN.png) : Business process flow diagram 
 
