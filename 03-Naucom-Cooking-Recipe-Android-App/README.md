@@ -22,7 +22,7 @@ translation integration.
 - [BPMN](./BPMN.png) : Business process flow diagram 
 
 ## Figma UI Design
-- [UI Design](bit.ly/naucomapp-figma)
+- UI Design: bit.ly/naucomapp-figma
 ## Features
 - Recipe search via Spoonacular API
 - Meal planning calendar
