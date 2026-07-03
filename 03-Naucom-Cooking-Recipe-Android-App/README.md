@@ -17,7 +17,7 @@ translation integration.
   third-party API integration
 
 ## Documentation
-- [User Stories](./User-Stories.pdf) : Functional requirements in user story format
+- [User Stories](./User-story.pdf) : Functional requirements in user story format
 - [Use Case Diagram](./Use-Case-Diagram/) : System interactions between actors and features 
 - [BPMN](./BPMN.png) : Business process flow diagram 
 
