@@ -19,7 +19,7 @@ Usability research & redesign for a 55M-user government app
 
 ### [NauCom — Cooking Recipe Android App](./03-Naucom-Cooking-Recipe-Android-App)
 Team Project | Project Lead  
-User Stories, Wireframes, Use Case Diagram, BPMN
+Business Requirement Document, User Stories, Wireframes, Use Case Diagram, BPMN
 
 ## Skills Demonstrated
 `Requirement Gathering` `User Story` `Use Case Diagram` `BPMN` 
