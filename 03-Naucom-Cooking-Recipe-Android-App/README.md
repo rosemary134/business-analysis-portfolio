@@ -19,7 +19,7 @@ translation integration.
 ## Documentation
 - [User Stories](./User-story.pdf) : Functional requirements in user story format
 - [Use Case Diagram](./Use-Case-Diagram/) : System interactions between actors and features 
-- [BPMN](./BPMN.png) : Business process flow diagram 
+- [BRD](./BRD-NAUCOM-001.pdf) : Business Requirements Document and Functional Requirements
 
 ## Figma UI Design
 - UI Design: bit.ly/naucomapp-figma
