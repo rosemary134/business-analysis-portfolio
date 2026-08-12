@@ -9,17 +9,18 @@ Final-year IT Student | Business Analyst Intern Candidate
 Hanoi Architectural University
 
 ## Project
-### [Hospital Lookup & Health Management System](./01-Hospital-Lookup-Health-Management-System)
-Individual Thesis Project — In Progress  
-Use Cases, User Stories, System Architecture
 
-### [VNeID UX Research, Design & Evaluation](./02-VNeID-UX-Research-Design-Evaluation)
+### [VNeID UX Research, Design & Evaluation](./01-VNeID-UX-Research-Design-Evaluation)
 University Scientific Research | Project Lead  
 Usability research & redesign for a 55M-user government app
 
-### [NauCom — Cooking Recipe Android App](./03-Naucom-Cooking-Recipe-Android-App)
+### [NauCom — Cooking Recipe Android App](./02-Naucom-Cooking-Recipe-Android-App)
 Team Project | Project Lead  
 Business Requirement Document, User Stories, Wireframes, Use Case Diagram, BPMN
+
+### [Face Recognition Room Management System](./03-Face-Recognition-Room-Management-System)
+Team Project | Project Lead  
+Business Requirement Document, User Stories, Use Case Diagram, BPMN
 
 ## Skills Demonstrated
 `Requirement Gathering` `User Story` `Use Case Diagram` `BPMN` 
