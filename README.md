@@ -1,6 +1,6 @@
 # Business Analysis Portfolio
 A collection of Business Analysis documentation from academic and 
-team projects — covering requirement gathering, UX research, system 
+team projects — covering requirements gathering, UX research, system 
 design, and process documentation.
 > Actively being updated - more case studies coming soon.
 
@@ -10,11 +10,11 @@ Hanoi Architectural University
 
 ## Project
 
-### [VNeID UX Research, Design & Evaluation](./01-VNeID-UX-Research-Design-Evaluation)
+### [VNeID UX Research, Design & Evaluation](./02-VNeID-UX-Research-Design-Evaluation)
 University Scientific Research | Project Lead  
 Usability research & redesign for a 55M-user government app
 
-### [NauCom — Cooking Recipe Android App](./02-Naucom-Cooking-Recipe-Android-App)
+### [NauCom — Cooking Recipe Android App](./03-Naucom-Cooking-Recipe-Android-App)
 Team Project | Project Lead  
 Business Requirement Document, User Stories, Wireframes, Use Case Diagram, BPMN
 
