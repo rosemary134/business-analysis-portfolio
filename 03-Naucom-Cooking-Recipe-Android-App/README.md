@@ -17,9 +17,10 @@ translation integration.
   third-party API integration
 
 ## Documentation
-- [User Stories](./User-story.pdf) : Functional requirements in user story format
-- [Use Case Diagram](./Use-Case-Diagram/) : System interactions between actors and features 
-- [BRD](./BRD-NAUCOM-001.pdf) : Business Requirements Document and Functional Requirements
+- [User Stories](./User-story.pdf): Functional requirements in user story format
+- [Use Case Diagram](./Use-Case-Diagram/): System interactions between actors and features 
+- [BRD](./BRD-NAUCOM-001.pdf): Business Requirements Document and Functional Requirements
+- [BPMN](./BPMN): Business Process Model and Notation for key system workflows
 
 ## Figma UI Design
 - UI Design: bit.ly/naucomapp-figma
