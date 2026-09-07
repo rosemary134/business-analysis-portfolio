@@ -41,6 +41,22 @@ Designed and prototyped **6 UX improvements** using Figma and Framer:
 5. **Offline Mode** — view saved documents without internet access
 6. **Status Timeline** — color-coded tracking for application progress
 
+## User Flow
+
+To translate solutions #1 (Optimized Authentication) and #5 (Offline 
+Mode) into implementable logic, I mapped the full "Ví giấy tờ" 
+authentication flow for both connectivity states:
+
+- **Online flow:** passcode verification with a failed-attempt 
+  limit before temporary account lock — reduces brute-force risk 
+  while keeping friction low for legitimate users.
+<img width="7352" height="1814" alt="image" src="https://github.com/user-attachments/assets/8345ed28-7c2a-4ec5-b7e6-49617ed33d43" />
+
+- **Offline flow:** falls back to locally cached documents 
+  instead of blocking access entirely, directly addressing the 
+  low-connectivity complaints surfaced in the negative-review mining.
+<img width="6494" height="1934" alt="image" src="https://github.com/user-attachments/assets/4f9def74-c2ee-4618-b315-fbe678b94a6f" />
+
 ## Result
 - Test participants: 51 (qualitative) + 61 (quantitative) 
 - Overall SUS Score: **88.25 / 100** — "Excellent" (Bangor scale) 
