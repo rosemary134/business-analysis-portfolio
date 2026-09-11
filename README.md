@@ -18,10 +18,6 @@ Usability research & redesign for a 55M-user government app
 Team Project | Project Lead  
 Business Requirement Document, User Stories, Wireframes, Use Case Diagram, BPMN
 
-### [Face Recognition Room Management System](./03-Face-Recognition-Room-Management-System)
-Team Project | Project Lead  
-Business Requirement Document, User Stories, Use Case Diagram, BPMN
-
 ## Skills Demonstrated
 `Requirement Gathering` `User Story` `Use Case Diagram` `BPMN` 
 `SRS/BRD` `UX Research` `Agile/Scrum` `Figma`
