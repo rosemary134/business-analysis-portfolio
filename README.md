@@ -5,7 +5,7 @@ design, and process documentation.
 > Actively being updated - more case studies coming soon.
 
 ## About
-Final-year IT Student | Business Analyst Intern Candidate
+Final-year IT Student | Business Analyst Fresher Candidate
 Hanoi Architectural University
 
 ## Project
