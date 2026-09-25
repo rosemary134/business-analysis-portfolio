@@ -29,7 +29,7 @@ and qualitative sources rather than a single method:
 - **App Store + Google Play Negative Review Mining** - 562 reviews
 
 ## Methodology
-- **User-Centered Design (UCD)** — ISO 9241-210
+- **User-Centered Design (UCD)** - ISO 9241-210
 - **Design Thinking** - Empathize, Define, Ideate, Prototype, Test
 - **SUS (System Usability Scale)** - quantitative usability scoring
 - **UEQ (User Experience Questionnaire)** - qualitative experience evaluation
