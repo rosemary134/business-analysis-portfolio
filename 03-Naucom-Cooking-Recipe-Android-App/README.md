@@ -16,7 +16,7 @@ waste food from unused ingredients. NauCom addresses both with
 ingredient-based recipe discovery and automatic Vietnamese translation.
 
 ## Elicitation
-The idea originated from the team itself — one member regularly cooked
+The idea originated from the team itself - one member regularly cooked
 and kept having to pull recipe information from multiple scattered
 sources. The team scoped the brief from that real friction point; our
 academic supervisor's role was limited to confirming the topic was
