@@ -78,16 +78,22 @@ sensitivity of health data.
 
 ## Design
 Built the information architecture around two distinct experiences:
-- A mobile bottom-nav layout for User (home, exam schedule, exam book,
-account, with a shortcut QR button for BHYT lookup). 
+**A mobile for User** 
+Home, exam schedule, exam book, account, with a shortcut QR button for BHYT lookup. 
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/ca45f1a5-213f-4c57-9d5d-a71322c64fb3" />
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/46fc248c-dcbc-4070-a83b-eb16db532c76" />
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/7bf71938-f594-4e0e-bd15-4f97f0d4deff" />
-- A desktop sidebar dashboard for Admin. Delivered as a connected Figma prototype
-from wireframe through high-fidelity screens, with visual hierarchy
-prioritizing the data users need to see first (name, facility,
-exam date, BHYT status) over detail views.
 
+**A desktop for Admin**
+Delivered as a connected Figma prototype from wireframe through high-fidelity screens, with visual hierarchy prioritizing the data users need to see first (name, facility,
+exam date, BHYT status) over detail views.
+<img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/64becfbb-eac2-4639-938b-ece4703da92e" />
+<img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/ca0458ec-1d7a-4746-a425-35838f4c0b12" />
+<img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/46d2b11d-e71b-4501-9391-84c3228dead7" />
+
+**Figma Prototype:**
+- bit.ly/vneid-prototype-figma
+  
 ## Result
 Usability-tested with Guerrilla testing and a System Usability Scale
 survey, n=25 participants, averaging **79.5/100** (range 72.5-85.0)
