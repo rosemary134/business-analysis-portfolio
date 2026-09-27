@@ -52,22 +52,20 @@ as one.
 
 ## Requirements approach
 
-### Use Case Diagram
+### [UseCase Diagram](./UseCase-Personal-Health-Management-App.drawio.png)
 Defined 2 actors (User, Admin) and 4 use cases - View Personal Health
 Record (includes View Personal Info, View Basic Health Info, View
 BHYT Info), View Exam History (extends to View Exam Detail), View
 Re-exam Reminders, and Manage Record Data (includes View Statistics,
 Search Users, View User Record, Update Record Status) - using
 include/extend to separate mandatory sub-functions from optional ones.
-![BPMN](./UseCase-Personal-Health-Management-App.drawio.png)
-### BPMN
+
+### [BPMN](./BPMN-Personal-Health-Management-App.drawio.png)
 Modeled the process with a business-level BPMN (User / System / Admin
 lanes), scoped to decisions a non-technical stakeholder needs to
 follow - implementation-level steps (database queries, data
 retrieval) are intentionally left out and documented separately for
 the dev team instead.
-
-![BPMN](./BPMN-Personal-Health-Management-App.drawio.png)
 
 Specified 6 functional requirements (e.g., "the system shall let users
 view a detailed record of a specific exam visit") and 6 non-functional
