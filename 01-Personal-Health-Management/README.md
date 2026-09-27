@@ -80,9 +80,9 @@ sensitivity of health data.
 Built the information architecture around two distinct experiences:
 - A mobile bottom-nav layout for User (home, exam schedule, exam book,
 account, with a shortcut QR button for BHYT lookup). 
-<img width="354" height="752" alt="image" src="https://github.com/user-attachments/assets/ca45f1a5-213f-4c57-9d5d-a71322c64fb3" />
-<img width="364" height="762" alt="image" src="https://github.com/user-attachments/assets/46fc248c-dcbc-4070-a83b-eb16db532c76" />
-<img width="358" height="757" alt="image" src="https://github.com/user-attachments/assets/7bf71938-f594-4e0e-bd15-4f97f0d4deff" />
+<img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/ca45f1a5-213f-4c57-9d5d-a71322c64fb3" />
+<img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/46fc248c-dcbc-4070-a83b-eb16db532c76" />
+<img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/7bf71938-f594-4e0e-bd15-4f97f0d4deff" />
 - A desktop sidebar dashboard for Admin. Delivered as a connected Figma prototype
 from wireframe through high-fidelity screens, with visual hierarchy
 prioritizing the data users need to see first (name, facility,
