@@ -9,12 +9,17 @@ Final-year IT Student | Business Analyst Candidate
 Hanoi Architectural University
 
 ## Project
+### [Personal Health Management App](./01-Personal-Health-Management)
+BA Intern Project
+Survey-based needs assessment, Use Case & BPMN modeling, and Figma
+Prototype for a personal health record app - validated with SUS
+usability testing (79.5/100, n=25)
 
 ### [VNeID UX Research, Design & Evaluation](./02-VNeID-UX-Research-Design-Evaluation)
 University Scientific Research | Project Lead  
 Usability research & redesign for a 55M-user government app
 
-### [NauCom — Cooking Recipe Android App](./03-Naucom-Cooking-Recipe-Android-App)
+### [NauCom - Cooking Recipe Android App](./03-Naucom-Cooking-Recipe-Android-App)
 Team Project | Project Lead  
 Business Requirement Document, User Stories, Wireframes, Use Case Diagram, BPMN
 
