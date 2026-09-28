@@ -12,8 +12,8 @@ Hanoi Architectural University
 ### [Personal Health Management App](./01-Personal-Health-Management)
 BA Intern Project
 Survey-based needs assessment, Use Case & BPMN modeling, and Figma
-Prototype for a personal health record app - validated with SUS
-usability testing (79.5/100, n=25)
+Design for a personal health record app - validated with SUS
+Usability testing (79.5/100, n=25)
 
 ### [VNeID UX Research, Design & Evaluation](./02-VNeID-UX-Research-Design-Evaluation)
 University Scientific Research | Project Lead  
