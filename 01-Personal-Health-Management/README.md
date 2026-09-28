@@ -89,8 +89,8 @@ exam date, BHYT status) over detail views.
 <img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/ca0458ec-1d7a-4746-a425-35838f4c0b12" />
 <img width="592" height="418" alt="image" src="https://github.com/user-attachments/assets/46d2b11d-e71b-4501-9391-84c3228dead7" />
 
-**Figma Prototype:**
-- bit.ly/vhiid-prototype-figma
+**Figma Design:**
+- bit.ly/vhiid-figma-design
   
 ## Result
 Usability-tested with Guerrilla testing and a System Usability Scale
