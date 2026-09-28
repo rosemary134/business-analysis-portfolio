@@ -78,6 +78,7 @@ sensitivity of health data.
 Built the information architecture around two distinct experiences:
 **A mobile for User** 
 Home, exam schedule, exam book, account, with a shortcut QR button for BHYT lookup. 
+
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/ca45f1a5-213f-4c57-9d5d-a71322c64fb3" />
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/46fc248c-dcbc-4070-a83b-eb16db532c76" />
 <img width="158" height="331" alt="image" src="https://github.com/user-attachments/assets/7bf71938-f594-4e0e-bd15-4f97f0d4deff" />
