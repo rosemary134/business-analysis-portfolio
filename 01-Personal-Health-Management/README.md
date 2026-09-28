@@ -14,15 +14,15 @@ across facilities, and existing e-BHYT / health-tracking apps
 - Patient medical data fragmented across multiple healthcare facilities
 - Electronic BHYT (health insurance) card adoption exists, but user
   experience around it remains inconsistent
-- No single app lets users manage their full health record — insurance
-  info, exam history, and upcoming re-exam schedules — in one place
+- No single app lets users manage their full health record - insurance
+  info, exam history, and upcoming re-exam schedules - in one place
 - Health data is sensitive, so any solution needs security and
   privacy built into the design from the start, not added later
 
 ## Elicitation
 Combined a real user survey with competitive analysis rather than
 working from assumptions:
-- **Online survey** (Google Forms), 40 valid responses — covering age
+- **Online survey** (Google Forms), 40 valid responses - covering age
   distribution, current app usage, feature demand, and comfort with
   storing health data on a personal device
 - **Competitive analysis** of VssID and VNeID's Sổ sức khỏe điện tử
@@ -34,7 +34,7 @@ working from assumptions:
 | Metric | Result |
 |---|---|
 | Currently use VNeID / VssID | 62.5% / 42.5% (10% use neither) |
-| Top requested feature | "View exam details" — 50% |
+| Top requested feature | "View exam details" - 50% |
 | Comfortable storing health data on device | 77.5% (20% privacy-concerned) |
 
 | Feature | VssID | VNeID (Sổ sức khỏe điện tử) | This project |
@@ -53,7 +53,7 @@ as one.
 ## Requirements approach
 
 ### [UseCase Diagram](./UseCase-Personal-Health-Management-App.drawio.png)
-Defined 2 actors (User, Admin) and 4 use cases - View Personal Health
+Defined 2 actors (User, Admin) and 4 use cases: View Personal Health
 Record (includes View Personal Info, View Basic Health Info, View
 BHYT Info), View Exam History (extends to View Exam Detail), View
 Re-exam Reminders, and Manage Record Data (includes View Statistics,
